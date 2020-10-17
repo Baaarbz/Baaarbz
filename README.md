@@ -13,7 +13,7 @@ I'm feelin' thank you.
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/baaarbz)](https://github.com/baaarbz) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&link=https://github.com/baaarbz)](https://github.com/baaarbz)
 [![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=Python&logoColor=blue&link=https://github.com/baaarbz)](https://github.com/baaarbz)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat&logo=Node.js&link=https://github.com/baaarbz)](https://github.com/baaarbz) 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-grey?style=flat&logo=Node.js&link=https://github.com/baaarbz)](https://github.com/baaarbz) 
 
 ### Frameworks
 
