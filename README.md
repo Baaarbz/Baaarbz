@@ -25,7 +25,7 @@ I'm feelin' thank you.
 
 [![MySQL](https://img.shields.io/badge/MySQL-FFF?style=flat&logoColor=black&logo=mysql&link=https://github.com/baaarbz)](https://github.com/baaarbz)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white&link=https://github.com/baaarbz)](https://github.com/baaarbz)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=Mongodb&logoColor=white&link=https://github.com/baaarbz)](https://github.com/baaarbz)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat&logo=Mongodb&link=https://github.com/baaarbz)](https://github.com/baaarbz)
 
 ### CI
 
